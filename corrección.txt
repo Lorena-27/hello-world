@@ -1,0 +1,15 @@
+CORRECCIÓN — PRÁCTICA 0-A: HELLO WORLD
+
+Resultado: Todo OK 😀
+
+Has creado una rama, modificado el README y fusionado
+los cambios en main mediante una pull request.
+
+Muy bien los mensajes: tanto el commit como el título
+y la descripción de la PR explican claramente el cambio.
+Además, has conservado el encabezado del README
+y explicado tu objetivo de aprendizaje.
+
+Puedes fusionar esta PR para incorporar la corrección.
+Esta práctica está revisada; puedes borrar este repositorio
+cuando quieras.
